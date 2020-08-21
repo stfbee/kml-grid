@@ -1,3 +1,4 @@
+![Example](https://github.com/stfbee/kml-grid/blob/master/img/example.png?raw=true)
 
 
 usage:
